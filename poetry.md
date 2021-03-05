@@ -1,6 +1,6 @@
 # Poetry instructions
 
-You're probably here because you're joining a project which uses [Poetry](https://python-poetry.org/). This unofficial should help you get started!
+You're probably here because you're joining a project which uses [Poetry](https://python-poetry.org/). This unofficial guide should help you get started!
 
 ## What does Poetry do?
 
